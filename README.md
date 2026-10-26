@@ -11,7 +11,7 @@ Finetune DistilBERT on the IMDb using the guide from Hugging Face [website](http
 
 <img width="1457" height="316" alt="image" src="https://github.com/user-attachments/assets/4827ae0e-1891-41b0-a68a-aee3f9c0ef28" />
 
-And make it classify some basic sentences and it stated where is Positive or Negative with high confidence.
+I tested the model on some simple sentences and it correctly predicted whether they were Positive or Negative with high confidence.
 
 <img width="1475" height="245" alt="image" src="https://github.com/user-attachments/assets/caa71aa3-44a1-4c70-b4f4-45d53b4de37c" />
 
